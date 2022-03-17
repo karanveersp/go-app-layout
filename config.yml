@@ -1,0 +1,3 @@
+# Config not passed as CLI args - required info for program execution
+SpanishGreeting: "Hola"
+EnglishGreeting: "Hello"
